@@ -1,10 +1,11 @@
 # AI Stock Prediction Web App
 
-[![Streamlit App]([https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/](https://brodynelly-ai-stockpredictionweb-main-fmirxg.streamlit.app/))
+[![Streamlit App]((https://brodynelly-ai-stockpredictionweb-main-fmirxg.streamlit.app/))
 
 A powerful web application that uses machine learning to forecast stock prices. Built with Streamlit, Prophet, and yfinance.
 
-![App Screenshot](https://via.placeholder.com/800x400?text=AI+Stock+Prediction+App)
+![App Screenshot](https://github.com/user-attachments/assets/811e77e5-5fc6-49c4-a769-971bd5098c17)
+)
 
 ## Features
 
