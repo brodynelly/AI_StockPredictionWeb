@@ -86,16 +86,4 @@ This app can be deployed on Streamlit Cloud:
 - **Missing Dependencies**: Ensure all packages in requirements.txt are installed
 - **Deployment Errors**: Check that your environment has all necessary dependencies
 
-## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- [Facebook Prophet](https://facebook.github.io/prophet/) for the forecasting algorithm
-- [yfinance](https://github.com/ranaroussi/yfinance) for providing access to Yahoo Finance data
-- [Streamlit](https://streamlit.io/) for the web app framework
